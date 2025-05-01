@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, somos a CPS-CONNECTIONS</h1>
 
 <h3 align="center">
-Soluções inteligentes em conectividade IoT para transformar o chão de fábrica.
+🔧 Soluções inteligentes em conectividade IoT para transformar o chão de fábrica.
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@ Nosso trabalho combina <strong>hardware especializado</strong>, <strong>software
 ---
 
 <div align="center">
-  <h3>🛠️ Tecnologias que Utilizamos</h3>
+  <h3>🧰 Tecnologias que Utilizamos</h3>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"></code>
@@ -27,6 +27,7 @@ Nosso trabalho combina <strong>hardware especializado</strong>, <strong>software
   <h3>📊 GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=CPS-CONNECTIONS&show_icons=true&theme=dark" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CPS-CONNECTIONS&theme=dark&hide_border=true" width="400">
+  <br>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPS-CONNECTIONS&layout=compact&hide_border=true&title_color=A8346C&text_color=BCB28D&bg_color=1F2023" />
 </div>
 
@@ -34,7 +35,7 @@ Nosso trabalho combina <strong>hardware especializado</strong>, <strong>software
 
 <div align="center">
   <h3>📈 Contador de Visitas</h3>
-  <img src="https://profile-counter.glitch.me/CPS-CONNECTIONS/count.svg" />
+  <img src="https://profile-counter.glitch.me/CPS-CONNECTIONS/count.svg" alt="Contador de visitas" />
 </div>
 
 ---
