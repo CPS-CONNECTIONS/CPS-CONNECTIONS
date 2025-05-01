@@ -18,7 +18,6 @@ Nosso trabalho combina <strong>hardware especializado</strong>, <strong>software
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" alt="C++"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" alt="Linux"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/iot/iot.png" alt="IoT"></code>
 </div>
 
 ---
@@ -28,7 +27,7 @@ Nosso trabalho combina <strong>hardware especializado</strong>, <strong>software
   <img src="https://github-readme-stats.vercel.app/api?username=CPS-CONNECTIONS&show_icons=true&theme=dark" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CPS-CONNECTIONS&theme=dark&hide_border=true" width="400">
   <br>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPS-CONNECTIONS&layout=compact&hide_border=true&title_color=A8346C&text_color=BCB28D&bg_color=1F2023" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPS&layout=compact&hide_border=true&title_color=A8346C&text_color=BCB28D&bg_color=1F2023" />
 </div>
 
 ---
